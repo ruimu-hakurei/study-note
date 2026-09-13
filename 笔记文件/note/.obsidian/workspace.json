@@ -1,0 +1,429 @@
+{
+  "main": {
+    "id": "83d3c59369f6768f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee7c9a9370e69db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a378124e0d27fc0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模拟电路/4.三极管.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.三极管"
+            }
+          },
+          {
+            "id": "142e39db181dafca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/控制算法/控制算法-卡尔曼滤波.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "控制算法-卡尔曼滤波"
+            }
+          },
+          {
+            "id": "2693ce03d6a8b260",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99dfdc7257e82b72",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ccbebf07dc1d48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae74ce17074527af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "64f32455dd4cc3a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1a87cd876005b48b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e0f0d37afbd6076",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a0727c0cd415f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71fe92699b035395",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "控制算法-卡尔曼滤波.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "控制算法-卡尔曼滤波 的反向链接列表"
+            }
+          },
+          {
+            "id": "33a1e25502a05233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "控制算法-卡尔曼滤波.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "控制算法-卡尔曼滤波 的出链列表"
+            }
+          },
+          {
+            "id": "231cc853fa45a615",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\robin\\Desktop\\笔记文件\\大模型",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：cmd"
+            }
+          },
+          {
+            "id": "3fb034f3549875a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3f42b935f010fbb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "0c9beac2eaee8e8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "模拟电路/2.微变等效电路.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "f5d5bb9c5c81a35a",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\robin\\Desktop\\笔记文件\\大模型",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "icon": "lucide-ghost",
+              "title": "terminal:terminal"
+            }
+          },
+          {
+            "id": "fd0b4ea455367410",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\robin\\Desktop\\笔记文件\\大模型",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "terminal:terminal"
+            }
+          },
+          {
+            "id": "b53bcd2b8952f4d9",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\robin\\Desktop\\笔记文件\\大模型",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "profileSourceId": "win32IntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "icon": "lucide-ghost",
+              "title": "terminal:terminal"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.833251953125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "142e39db181dafca",
+  "lastOpenFiles": [
+    "模拟电路/2.微变等效电路.md",
+    "模拟电路/3.稳压二极管.md",
+    "模拟电路/4.三极管.md",
+    "模拟电路/1.半导体.md",
+    "2026数学建模/小狗代码.md",
+    "算法/控制算法/控制算法-卡尔曼滤波.md",
+    "现代机器人学",
+    "2026数学建模",
+    "2026数学建模/小狗清除波.md",
+    "2026数学建模/一半小狗算法.md",
+    "git操作指南.md",
+    "小狗代码.md.tmp.10884.17b099c81b2b",
+    "小狗代码.md.tmp.10884.90062697804c",
+    "小狗代码.md.tmp.10884.bc6b0c642c1d",
+    "小狗清除波.md.tmp.10884.0dc3ffb3676b",
+    "小狗清除波.md.tmp.10884.7e4aeb40ddd0",
+    "小狗清除波.md.tmp.10884.85741f0352ad",
+    "小狗代码.md.tmp.10884.ddef1e60cc37",
+    "小狗代码.md.tmp.10884.7f0a6e045905",
+    "算法/数据结构/算法分析时间复杂度.md",
+    "算法/数据结构/数据结构.md",
+    "算法/EM算法.md",
+    "数学/傅里叶.md",
+    "未命名 1.md",
+    "数学/复变函数与积分变换/复数本质.md",
+    "标准库/03-中断NVIC.md",
+    "数学/概率论与数理统计/概率论与数理统计方法.md",
+    "标准库/04-USART.md",
+    "标准库/10-CAN.md",
+    "标准库/keil快捷键.md",
+    "freertos/计数信号量.md",
+    "标准库/stm32.md",
+    "标准库/通信协议总览.md",
+    "模拟电路/模拟电路目录.md",
+    "数学/复变函数与积分变换/复变函数与积分变换目录.md",
+    "未命名 1.canvas",
+    "foc电机/Pasted image 20260712105552.png",
+    "未命名.canvas",
+    "图片/Pasted image 20260826021623.png",
+    "图片/F分布概率密度函数.png",
+    "图片/卡方分布概率密度函数.png",
+    "图片/Student-t分布概率密度函数.png",
+    "图片/Pasted image 20260817233212.png",
+    "图片/Pasted image 20260817230909.png",
+    "图片/Pasted image 20260816195122.png",
+    "图片/Pasted image 20260811002059.png"
+  ]
+}

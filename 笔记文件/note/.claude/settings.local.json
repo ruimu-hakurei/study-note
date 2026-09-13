@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(xxd)",
+      "Bash(pip install *)",
+      "Bash(echo \"EXIT: $?\")",
+      "Read(//c/Users/robin/anaconda3/**)",
+      "Bash(/c/Users/robin/anaconda3/python.exe -c \"print\\('hello'\\)\")",
+      "Bash(/c/Users/robin/anaconda3/python.exe *)",
+      "Bash(grep *)",
+      "Bash(find . -iname \"*未命名*\")",
+      "Bash(find . -iname \"*未命名*1*\")",
+      "Bash(awk '{print $5, $9}')",
+      "Bash(head -60 \"数学.md\")",
+      "Bash(head -40 \"概率论与数理统计/概率论与数理统计方法.md\")",
+      "Bash(cat)",
+      "Bash(find . -iname \"*f*分布*\" -o -iname \"*F*分布*\")",
+      "Bash(ls -la \"图片\")",
+      "Bash(ls -la \"数学\")",
+      "Bash(python *)",
+      "Bash(head -n 394 正态bayes问题.md)",
+      "Bash(mv /tmp/nb.md 正态bayes问题.md)",
+      "Bash(echo \"残留 \\\\\\\\[ 语法: $\\(grep -c '\\\\\\\\\\\\[' 正态bayes问题.md\\)\")",
+      "Bash(echo \"残留 \\\\\\\\[ \\(Bayes基础\\): $\\(grep -c '\\\\\\\\\\\\[' Bayes基础.md\\)\")",
+      "Bash(find . -iname \"*协方差矩阵*\")",
+      "Bash(find . -iname \"*卡尔曼*\")"
+    ]
+  }
+}
